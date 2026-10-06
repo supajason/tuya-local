@@ -7,6 +7,8 @@ products:
     manufacturer: Smartrul
     model: SMR-YD002W
     name: PIR colorful nightlight
+  - id: keyvkfcucn7xnenx
+    name: PIR RGBCW light
 entities:
   - entity: light
     dps:
